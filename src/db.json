@@ -1,0 +1,37 @@
+{
+    "year": "2021",
+    "financialreport":[
+        {"company": "ChartJS",
+            "companyname": "ChartJS Corp",
+            "companystock": "CHRT",
+            "financials":
+            [
+                {
+                    "date":"January",
+                    "revenue": 90,
+                    "expenses": 30,
+                    "profits":60
+                },
+                {
+                    "date":"February",
+                    "revenue": 120,
+                    "expenses": 30,
+                    "profits":90
+                },
+                {
+                    "date":"March",
+                    "revenue": 150,
+                    "expenses": 30,
+                    "profits":120
+                },
+                {
+                    "date":"Apri;",
+                    "revenue": 180,
+                    "expenses": 30,
+                    "profits":150
+                }
+                
+            ]
+    } 
+    ]
+}
